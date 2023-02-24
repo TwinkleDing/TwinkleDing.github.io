@@ -5,6 +5,6 @@
         devApiUrl: "http://localhost:6677",
         proApiUrl: "http://192.168.1.0:6677",
         ArLanuages: [],
-        API_KEY: "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"
+        API_KEY: "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",
     }
 })()
